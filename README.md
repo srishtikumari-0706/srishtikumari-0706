@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Srishti Kumari
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Data+Science+Student;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+Explorer;Generative+AI+Enthusiast;Building+Data-Driven+Applications" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Data+Science+Student;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+Explorer;Generative+AI+Enthusiast;Building+Data-Driven+Applications" />
 
 <br>
 
@@ -34,19 +34,19 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:srishtikumari26004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/srishtikumari-0706">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🔥 My GitHub Streak
+# 🔥 MY GITHUB STREAK
 
 <div align="center">
 
@@ -58,13 +58,13 @@
 
 <div align="center">
 
-### 🔥 Consistency • 📈 Growth • 🚀 Learning
+### 🔥 Building Consistency &nbsp; • &nbsp; 📈 Learning Every Day &nbsp; • &nbsp; 🚀 Growing Through Projects
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-# 📈 Contribution Activity
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻 TECH STACK
 
 <div align="center">
 
@@ -106,55 +106,97 @@
 
 ---
 
-## 🧠 Data Science & AI
+## 🐍 Languages & Data Science
 
 <div align="center">
 
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`
-
-`Machine Learning` • `Deep Learning` • `Data Analysis` • `Generative AI`
-
-`LLMs` • `RAG` • `NLP` • `Computer Vision`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🤖 AI & Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</div>
+
+---
+
+## 🛠️ Development & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 💰 Crypto Portfolio Optimizer
+## 💰 Crypto Portfolio Optimizer
 
-A data-driven application that analyzes historical cryptocurrency performance and suggests portfolio allocations while focusing on minimizing drawdowns.
+A data-driven cryptocurrency portfolio optimization application that analyzes historical market performance and suggests portfolio allocations while focusing on minimizing drawdowns.
 
 **Tech Stack**
 
 `Python` `Pandas` `NumPy` `Streamlit`
 
+<br>
+
 <a href="https://crypto-portfolio-optimizer-lm2llwv8ntkmzh8wi5yavj.streamlit.app/">
-🔗 Live Demo
+
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge"/>
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI Video Animator
+## 🤖 AI Video Animator
 
-An AI-powered web application designed to transform ideas into engaging animated video content.
+An AI-powered web application designed to transform ideas into engaging animated video content using modern AI technologies.
 
 **Tech Stack**
 
 `Python` `AI` `Generative AI` `Web Development`
 
+<br>
+
 <a href="https://ai-video-animator-ajmm07ghs-srishti-kumaris-projects-304c4b77.vercel.app/">
-🔗 Live Demo
+
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel"/>
+
 </a>
 
 </td>
@@ -165,9 +207,9 @@ An AI-powered web application designed to transform ideas into engaging animated
 
 <td width="50%" valign="top">
 
-### 🕵️ Transaction Fraud Detection
+## 🕵️ Transaction Fraud Detection
 
-Machine Learning project focused on detecting potentially fraudulent financial transactions using historical transaction data.
+A Machine Learning project focused on predicting whether a financial transaction is potentially fraudulent using historical transaction data.
 
 **Tech Stack**
 
@@ -177,36 +219,49 @@ Machine Learning project focused on detecting potentially fraudulent financial t
 
 <td width="50%" valign="top">
 
-### 📊 Data Science Projects
+## 📊 Data Science Projects
 
-A collection of projects covering data analysis, visualization, machine learning and predictive modeling.
+A collection of projects involving data analysis, visualization, predictive modeling and machine learning.
 
 **Tech Stack**
 
-`Python` `SQL` `Pandas` `NumPy` `ML`
+`Python` `SQL` `Pandas` `NumPy` `Machine Learning`
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🧠 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-58A6FF?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
-                    🤖 GENERATIVE AI
-                           ↓
-                    🧠 LARGE LANGUAGE MODELS
-                           ↓
-                       🔎 RAG
-                           ↓
-                    🔗 LANGCHAIN
-                           ↓
-                     🤝 AI AGENTS
-                           ↓
-                 🚀 PRODUCTION AI
+       🤖 GENERATIVE AI
+              ↓
+       🧠 LARGE LANGUAGE MODELS
+              ↓
+           🔎 RAG
+              ↓
+        🔗 LANGCHAIN
+              ↓
+         🤝 AI AGENTS
+              ↓
+      🚀 PRODUCTION AI
