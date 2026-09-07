@@ -1,18 +1,132 @@
-# 💫 About Me:
-AI/ML and Data Science projects using Python<br>Data Science, Machine Learning & AI projects<br>Improving my skills in Generative AI, LLMs & advanced ML<br>Machine Learning, Deep Learning, SQL & Generative AI<br>Python, Pandas, Machine Learning, Data Analysis & Streamlit<br>I love building projects that turn ideas and data into working applications.
+<!-- ======================= HEADER ======================= -->
+
+<div align="center">
+
+# 👋 Hi, I'm Srishti Kumari
+
+<a href="https://github.com/srishtikumari-0706">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+%7C+Generative+AI;Building+AI-Powered+Applications" />
+
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=srishtikumari-0706&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti-kumari-5285b8251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srishtikumari26004@gmail.com) 
+<!-- ======================= ABOUT ======================= -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=srishtikumari-0706&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=srishtikumari-0706&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=srishtikumari-0706&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=srishtikumari-0706&icon=0&color=0)](https://visitcount.itsvg.in)
+🎓 Data Science student passionate about **Artificial Intelligence, Machine Learning & Data Analytics**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> where do i paste it in my github
+🐍 Building projects using **Python, Machine Learning, SQL and Streamlit**
+
+🤖 Exploring **Generative AI, LLMs, RAG and AI-powered applications**
+
+📊 Interested in turning **data into useful real-world solutions**
+
+💡 I love building projects that turn ideas into working applications.
+
+
+<!-- ======================= SOCIALS ======================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srishtikumari-0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikumari-0706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+
+<!-- ======================= STREAK ======================= -->
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=srishtikumari-0706&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srishtikumari-0706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtikumari-0706&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,html,css,mysql,sqlite,mongodb,flask,nodejs,streamlit,tensorflow,sklearn,pytorch,docker,git,github,aws,azure&perline=7" />
+
+</div>
+
+
+<!-- ======================= TOOLS ======================= -->
+
+## 🛠️ Technologies I Work With
+
+```text
+Languages        → Python • C++ • Java • SQL • JavaScript
+
+Data Science     → Pandas • NumPy • Matplotlib • Seaborn
+
+Machine Learning → Scikit-Learn • TensorFlow • PyTorch
+
+AI / GenAI       → LLMs • RAG • Generative AI
+
+Development      → Streamlit • Flask • Node.js
+
+Databases        → MySQL • SQLite • MongoDB
+
+Tools            → Git • GitHub • Docker • VS Code
+
+Cloud            → AWS • Azure • Vercel
