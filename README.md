@@ -1,48 +1,40 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm Srishti Kumari
 
-<a href="https://github.com/srishtikumari-0706">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+%7C+Generative+AI;Building+AI-Powered+Applications" />
-
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Data+Science+Student;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+Explorer;Generative+AI+Enthusiast;Building+Data-Driven+Applications" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=srishtikumari-0706&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=srishtikumari-0706&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
+---
 
-<!-- ======================= ABOUT ======================= -->
+## 🧠 About Me
 
-## 🚀 About Me
+🎓 **Data Science Student** passionate about Artificial Intelligence, Machine Learning and Data Analytics.
 
-🎓 Data Science student passionate about **Artificial Intelligence, Machine Learning & Data Analytics**
+🐍 I build practical applications using **Python, SQL, Machine Learning and Streamlit**.
 
-🐍 Building projects using **Python, Machine Learning, SQL and Streamlit**
+🤖 Currently exploring **Generative AI, LLMs, RAG and AI-powered applications**.
 
-🤖 Exploring **Generative AI, LLMs, RAG and AI-powered applications**
+📊 I enjoy turning data and ideas into **useful, working applications**.
 
-📊 Interested in turning **data into useful real-world solutions**
+🚀 My goal is to build intelligent systems that solve real-world problems.
 
-💡 I love building projects that turn ideas into working applications.
-
-
-<!-- ======================= SOCIALS ======================= -->
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/srishti-kumari-5285b8251/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -52,34 +44,49 @@
 
 </div>
 
+---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srishtikumari-0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikumari-0706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-
-<!-- ======================= STREAK ======================= -->
-
-## 🔥 GitHub Streak
+# 🔥 My GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=srishtikumari-0706&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=srishtikumari-0706&theme=tokyonight&hide_border=true&card_width=900" />
 
 </div>
 
+<br>
 
-<!-- ======================= TROPHIES ======================= -->
+<div align="center">
 
-## 🏆 GitHub Achievements
+### 🔥 Consistency • 📈 Growth • 🚀 Learning
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srishtikumari-0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikumari-0706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtikumari-0706&theme=tokyo-night&hide_border=true&area=true&custom_title=Srishti's%20Contribution%20Journey" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -87,46 +94,119 @@
 
 </div>
 
+---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtikumari-0706&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,html,css,mysql,sqlite,mongodb,flask,nodejs,streamlit,tensorflow,sklearn,pytorch,docker,git,github,aws,azure&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,r,mysql,sqlite,mongodb,flask,nodejs,streamlit,tensorflow,pytorch,sklearn,docker,git,github,aws,azure,vercel&perline=7" />
 
 </div>
 
+---
 
-<!-- ======================= TOOLS ======================= -->
+## 🧠 Data Science & AI
 
-## 🛠️ Technologies I Work With
+<div align="center">
+
+`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`
+
+`Machine Learning` • `Deep Learning` • `Data Analysis` • `Generative AI`
+
+`LLMs` • `RAG` • `NLP` • `Computer Vision`
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 Crypto Portfolio Optimizer
+
+A data-driven application that analyzes historical cryptocurrency performance and suggests portfolio allocations while focusing on minimizing drawdowns.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Streamlit`
+
+<a href="https://crypto-portfolio-optimizer-lm2llwv8ntkmzh8wi5yavj.streamlit.app/">
+🔗 Live Demo
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Video Animator
+
+An AI-powered web application designed to transform ideas into engaging animated video content.
+
+**Tech Stack**
+
+`Python` `AI` `Generative AI` `Web Development`
+
+<a href="https://ai-video-animator-ajmm07ghs-srishti-kumaris-projects-304c4b77.vercel.app/">
+🔗 Live Demo
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🕵️ Transaction Fraud Detection
+
+Machine Learning project focused on detecting potentially fraudulent financial transactions using historical transaction data.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-Learn` `Machine Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Science Projects
+
+A collection of projects covering data analysis, visualization, machine learning and predictive modeling.
+
+**Tech Stack**
+
+`Python` `SQL` `Pandas` `NumPy` `ML`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
 
 ```text
-Languages        → Python • C++ • Java • SQL • JavaScript
-
-Data Science     → Pandas • NumPy • Matplotlib • Seaborn
-
-Machine Learning → Scikit-Learn • TensorFlow • PyTorch
-
-AI / GenAI       → LLMs • RAG • Generative AI
-
-Development      → Streamlit • Flask • Node.js
-
-Databases        → MySQL • SQLite • MongoDB
-
-Tools            → Git • GitHub • Docker • VS Code
-
-Cloud            → AWS • Azure • Vercel
+                    🤖 GENERATIVE AI
+                           ↓
+                    🧠 LARGE LANGUAGE MODELS
+                           ↓
+                       🔎 RAG
+                           ↓
+                    🔗 LANGCHAIN
+                           ↓
+                     🤝 AI AGENTS
+                           ↓
+                 🚀 PRODUCTION AI
