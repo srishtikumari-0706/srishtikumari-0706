@@ -18,15 +18,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      # Generate GitHub Streak
       - name: Generate GitHub Streak
         uses: zients/github-readme-streak-stats@v2
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&card_width=900&disable_animations=false
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Generate GitHub Activity
       - name: Generate GitHub Activity
         uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
         with:
@@ -34,9 +38,12 @@ jobs:
           token: ${{ github.token }}
           profile: activity-consistency
 
+      # Save generated files
       - name: Commit generated profile statistics
         run: |
+
           git config user.name "github-actions[bot]"
+
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/
